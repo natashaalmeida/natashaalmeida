@@ -27,18 +27,15 @@
 ---
 
 ## 🚀 Projetos em Destaque
-- [Projeto API REST](link-do-projeto) — API completa em Java com Spring Boot  
-- [Sistema de Cadastro](link-do-projeto) — CRUD de usuários e médicos com validações  
-- [Outro Projeto Legal](link-do-projeto) — Breve descrição do projeto  
+- [Projeto API REST]([link-do-projeto](https://github.com/natashaalmeida/forumhub)) — API completa em Java com Spring Boot  
+- [Sistema de Cadastro]([link-do-projeto](https://github.com/natashaalmeida/api)) — CRUD de usuários e médicos com validações  
+- [Outro Projeto Legal]([link-do-projeto](https://github.com/natashaalmeida/desafio-literatura)) — Breve descrição do projeto  
 
 ---
 
 ## 📫 Contato
 <p align="center">
-  <a href="mailto:natashaalmeida173@email.com"><img src="https://img.shields.io/badge/Email-natasha@email.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Natasha-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:natashaalmeida173@gmail.com"><img src="https://img.shields.io/badge/Email-natasha@email.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="[https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/natashaalmeidag/)"><img src="https://img.shields.io/badge/LinkedIn-Natasha-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/natashaalmeida"><img src="https://img.shields.io/badge/GitHub-Natasha-black?style=for-the-badge&logo=github"></a>
 </p>
-ida&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natashaalmeida&layout=compact&theme=radical)
-
